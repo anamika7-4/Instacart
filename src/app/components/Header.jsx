@@ -29,7 +29,7 @@ const Header = () => {
       <nav>
         <ul className='flex justify-between items-center px-20 font-bold bg-green-700 '>
           <li className='hover:bg-amber-50'>
-            <Link href={"/home"}>Home</Link>
+            <Link href={"/"}>Home</Link>
           </li> 
           <li className='hover:bg-amber-50'>
             <Link href={"/ebt"}>EBT</Link>
